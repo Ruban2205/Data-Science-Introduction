@@ -5,7 +5,16 @@
 
 ## Topics 
 
-... Yet to update. 
+1) [Introduction with Python Dictionary](/01_Python_Dictionary_Datasets.ipynb)
+2) [Basic Preprocessing](/02_Basic_Preprocessing.ipynb)
+3) [Data Visualization](/03_Data_Visualization.ipynb)
+4) [Exploratory Data Analysis](/04_Exploratory_Data_Analysis.ipynb)
+5) [Statistical Inference](/05_Statistical_Inference.ipynb)
+6) [Simple Linear Regression](/06_Simple_Linear_Regression.ipynb)
+7) [KNN](/07_KNN.ipynb)
+8) [Decision Tree Classification](/08_Decision_Tree_Classification.ipynb)
+9) [K_Means Clustering](/09_K_Means_Clustering.ipynb)
+10) [Recommender System](/10_Recommender_Systems.ipynb)
 
 ## Module 1: Basics of Data Science 
 
