@@ -3,6 +3,10 @@
 ## Introduction: 
  - Data science is the study of data to extract meaningful insights for business. It is a multidisciplinary approach that combines principles and practices from the fields of mathematics, statistics, artificial intelligence, and computer engineering to analyze large amounts of data.
 
+## Topics 
+
+... Yet to update. 
+
 ## Module 1: Basics of Data Science 
 
 Introduction to Data science: Applications of data science - Properties of Data: Exploring various dataset in different repositories - Tool Boxes for Data Scientist.
