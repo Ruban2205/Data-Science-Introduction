@@ -27,6 +27,10 @@ Clustering, Similarity and Distance measure, K means clustering: sentiment analy
 
 Content Based Filtering, Collaborative Filtering: Developing a retail recommendation system, Hybrid. Recommenders: Hotel recommendation system - Evaluating Recommenders
 
+## LICENCE 
+
+This repository is released under MIT Licence. See [LICENCE](/LICENCE) for more details. 
+
 ## Contact
 
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://rubangino.in/)
