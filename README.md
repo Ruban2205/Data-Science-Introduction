@@ -2,6 +2,12 @@
 
 Welcome to the **Data Science Introduction** repository! This repository is designed to provide an introduction to the field of data science, covering various topics and techniques commonly used in the industry. 
 
+## 📚 Introduction 
+
+Data Science is a multidisciplinary field that combines statistics, mathematics, programming, and domain knowledge to extract insights and knowledge from data. It involves various stages, such as data collection, data cleaning, data analysis, modeling, and visualization, with the goal of making data-driven decisions and solving complex problems. 
+
+This repository serves as a starting point for individuals interested in learning about data science. It provides code examples, tutorials, and resources to help you get started and gain a solid foundation in the field. 
+
 ## Topics 📄
 
 1) [Introduction with Python Dictionary](/01_Python_Dictionary_Datasets.ipynb)
