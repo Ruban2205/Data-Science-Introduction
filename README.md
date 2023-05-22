@@ -1,6 +1,6 @@
-# Data Science - Introduction 👨‍💻
+# 📊 Data Science Introduction
 
-Data science is the study of data to extract meaningful insights for business. It is a multidisciplinary approach that combines principles and practices from the fields of mathematics, statistics, artificial intelligence, and computer engineering to analyze large amounts of data.
+Welcome to the **Data Science Introduction** repository! This repository is designed to provide an introduction to the field of data science, covering various topics and techniques commonly used in the industry. 
 
 ## Topics 📄
 
