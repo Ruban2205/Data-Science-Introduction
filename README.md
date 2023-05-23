@@ -55,7 +55,7 @@ Please ensure your contributions adhere to the coding style and guidelines used 
 
 ## 📃 LICENCE 
 
-This repository is licenced under the <ins>**MIT License.**</ins> You are free to use, modify, and distribute the code and content within this repository for personal or commercial purposes. However, please provide attribution to the original repository by linking back to it.
+This repository is licenced under the [MIT LICENCE](/LICENCE). You are free to use, modify, and distribute the code and content within this repository for personal or commercial purposes. However, please provide attribution to the original repository by linking back to it.
 
 <hr/>
 
